@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 48" width="300" height="48" font-family="Inter, sans-serif">
+  <rect x="1.5" y="5" width="38" height="38" rx="8" fill="none" stroke="#9184d9" stroke-width="2"></rect>
+  <rect x="10.71" y="9.03" width="19.58" height="4.32" rx="2.16" fill="#9184d9"></rect><rect x="10.71" y="13.35" width="4.32" height="11.23" rx="2.16" fill="#b2b6ca"></rect><rect x="25.97" y="13.35" width="4.32" height="11.23" rx="2.16" fill="#b2b6ca"></rect><rect x="10.71" y="24.58" width="19.58" height="4.32" rx="2.16" fill="#9184d9"></rect><rect x="25.97" y="28.89" width="4.32" height="9.21" rx="2.16" fill="#b2b6ca"></rect><rect x="10.71" y="38.11" width="19.58" height="4.32" rx="2.16" fill="#9184d9"></rect>
+  <text x="49" y="33" font-size="27" font-weight="500" letter-spacing="-0.5" fill="#e9e9ed">Tech</text>
+  <text x="119" y="33" font-size="15" letter-spacing="2.6" fill="#cfd3e5">AGENCY</text>
+</svg>
